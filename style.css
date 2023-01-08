@@ -1,0 +1,185 @@
+*{
+        margin: 0;
+        padding: 0;
+        /* Header section */
+}
+header{
+        width: 100%;
+        height: 100vh;
+        background-image: url('images/banner/banner1.png');
+        background-size: cover;
+}
+.title-section{
+    position: absolute;
+    width: 400px;
+    height: 800px;
+    left: 1000px;
+    top: 216px;
+    color: #1a0a0a;
+    text-align: right;
+    padding-right: 50px;
+}
+.title{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 1200;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.title-description{
+    margin-bottom: 30px;
+}
+.btn-1{
+    Width: 145px;
+    Height:50px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    color: #457eca;
+    font-weight: 400;
+    font-size: 20px;
+    border: 0;
+}
+/* Main section-1 */
+.section-2{
+    margin-top: 100px;
+    display: flex;
+    margin-left: 300px;
+    margin-right: 100px;
+}
+.title-2-main-section{
+    margin-top: 250px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+
+}
+.person-image{
+
+}
+.title-2-heading{
+    width: 200px;
+    margin-bottom: 16px;
+    color: #1E1E1E;
+    font-size: 32px;
+
+}
+.title-2-description{
+    color: #444343;
+    margin-right: 350px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+        
+}
+.line-1{
+    margin-top: 16px;
+}
+.cheakmark{
+    height: 18px;
+    width: 18px;
+    left: 862px;
+    border-radius: 0px;
+
+}
+
+/* plan section */
+.my-plan{
+    font-family: 'Work Sans';
+    margin-left: auto;
+    margin-right: auto;
+
+
+ }
+ .plan-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px;
+ }
+ .skill-title{
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #151414;
+ }
+.skill-description{
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+ /* contact-me section */
+ .contact-me{
+    width: 76%;
+    height: 50vh;
+    background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url('images/watch.png');
+    background-size: cover;
+    background-position: center;
+    margin-left: 200px;
+    border-radius: 8px;
+ }
+ .contact-title{
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 64px;
+    color: #FFFFFF;
+    padding-top: 120px;
+    padding-left: 64px;
+    padding-right:500px;
+    margin-bottom: 16px;
+ }
+ .btn-2{
+    width: 200px;
+    height: 54px;
+    left: 294px;
+    margin-left: 65px;
+    margin-top: 14px;
+ }
+ /* footer */
+ .footer-header{
+    font-weight: 700;
+    font-size: 45px;
+ }
+ .footer-section{
+    display: flex;
+    background-color: #151414;
+    color: #FFFFFF;
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-right: 200px;
+    padding-top: 50px;
+ }
+ .btn-3{
+    Width: px;
+    Height:8px;
+    border-radius: 5px;
+    background: #cf7145;
+    color: #f9f9fa;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+ }
+
+ .footer-description{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 24px;
+    max-width: 50%;
+ }
+ .email{
+    width: 184px;
+    height: 26px;
+ }
+ .footer-icon{
+    margin-top: 24px;
+ }
+ .subscription{
+    width: 123px;
+    height: 29px;
+ }
+ .from{
+    width: 325px;
+    height: 64px;
+    font-size: 18px;
+ }
